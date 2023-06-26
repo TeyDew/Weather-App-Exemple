@@ -57,5 +57,5 @@ This project is licensed under the MIT License.
 
 ### Acknowledgements 🙏
 
-Vue.js - JavaScript framework for building user interfaces.
-Azmain Israq - UI/UX designer.
+- Vue.js - JavaScript framework for building user interfaces.
+- Azmain Israq - UI/UX designer.
