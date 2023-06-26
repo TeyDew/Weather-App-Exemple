@@ -1,6 +1,7 @@
 # WeatherApp - Vue.js Weather Application (Example Site) 🌤️
 
-![WeatherApp](https://github.com/TeyDew/Weather-App-Exemple/tree/master/src/assets/img/preview.png)
+![preview](https://github.com/TeyDew/Weather-App-Exemple/assets/92805828/7ef8ddc4-3439-4bb0-beb8-fbe303e2cd90)
+
 
 WeatherApp is a Vue.js web application that serves as an example site for front-end development. Please note that this application does not provide real-time weather information and does not utilize any external APIs. It is purely a demonstration of front-end functionality.
 
@@ -41,12 +42,10 @@ The application will be served locally at http://localhost:8080/. Open this URL 
 
 ### Usage 🌍
 
-- Enter a location in the search bar to get the current weather information for that location.
-- The application displays details such as temperature, humidity, wind speed, and weather conditions.
-- You can toggle between Celsius and Fahrenheit units using the unit switcher.
+- Enter a location in the search bar.
 - Navigate through different tabs with smooth animations.
 - Use the search bar to find weather information for various locations.
-- Access the settings page to customize app preferences.
+- Access the settings page.
 
 ### Contributing 🤝
 
