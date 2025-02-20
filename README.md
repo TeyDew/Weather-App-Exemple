@@ -40,13 +40,6 @@ npm run serve
 
 The application will be served locally at http://localhost:8080/. Open this URL in your web browser to view WeatherApp.
 
-### Usage 🌍
-
-- Enter a location in the search bar.
-- Navigate through different tabs with smooth animations.
-- Use the search bar to find weather information for various locations.
-- Access the settings page.
-
 ### Contributing 🤝
 
 Contributions to WeatherApp are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
